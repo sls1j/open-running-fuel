@@ -9,7 +9,7 @@ Ingredients:
 Maltodextrine 240g
 Sugar 480g
 potassium citrate 7.2g
-magnesium citrate 14.4g
+magnesium citrate 2.8g
 salt 18g
 water 350g
 
@@ -28,7 +28,7 @@ Per serving nutrional
 Calories 116kcal
 Net Carbs 29.7g
 Calcium 3.6mg
-Magnesium 95.6mg (23%)
+Magnesium 19.5mg (5%)
 Potassium 109mg (2%)
 Sodium 298.3mg (20%)
 
