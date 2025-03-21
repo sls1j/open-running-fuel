@@ -3,7 +3,7 @@ Plain Running Gel
 Description:  A 2 part glucose 1 part fructose formula.  By itself it has a very sweet and salty flavor.
 
 Servings: 24
-Serving Size: 45.75g
+Serving Size: 48g
 
 Ingredients:
 Maltodextrine 240g
@@ -11,7 +11,7 @@ Sugar 480g
 potassium citrate 7.2g
 magnesium citrate 2.8g
 salt 18g
-water 350g
+water 400g
 cream of tartar 2g
 
 Directions:
@@ -26,10 +26,9 @@ Additional changes:
 A flavoring agent can also be added.  Perhaps a flavoring packet, lemon juice, orange juice, vanilla, etc. 
 
 Per serving nutrional
-Calories 116kcal
-Net Carbs 29.7g
-Calcium 3.6mg
-Magnesium 19.5mg (5%)
-Potassium 109mg (2%)
-Sodium 298.3mg (20%)
+Calories 117kcal
+Net Carbs 29.8g
+Magnesium 18.9mg (5%)
+Potassium 150mg (2%)
+Sodium 297.8mg (20%)
 
