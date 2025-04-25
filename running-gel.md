@@ -1,7 +1,7 @@
 # Running Gel
 
 ##Description
-This running gel is a 2:1 glucose to fructose formula with electrolytes.  Without flavoring it has a sugary buttery taste, not unpleasant, but does get old. The recipe is enough for about 8 hours of running. Will make about 1 quart or 1 liter of gel.
+This running gel is a 2:1 glucose to fructose formula with electrolytes.  Without flavoring it has a sugary buttery taste, not unpleasant, but does get old. The recipe is enough for about 8 hours of running. Will make about 1 quart or 1 liter of gel. Was able to get all ingredients from grocery store or Amazon.
 
 ##Ingredients:
 |Ingredient|1 x recipe|
