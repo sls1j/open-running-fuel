@@ -23,7 +23,7 @@ This running gel is a 2:1 glucose to fructose formula with electrolytes.  Withou
 - A wisk or string instrement
 - A microwave or stove top
 
-## Directions
+**Directions**
 1. Weigh dry ingredients and combine into a 1-2 (1-2 liter) quart microwave-able bowl.  It is important to measure the electrolytes accurately as 
 an overdose of these could have serious health consequences.  It is Suggested to used a scale accurate to the 0.01 grams.
 2. Add water and mix with spoon.
