@@ -6,8 +6,8 @@ This running gel is a 2:1 glucose to fructose formula with electrolytes.  Withou
 ##Ingredients:
 |Ingredient|1 x recipe|
 |-|-|
-|Maltodextrine|240g|
-|Sugar|480g|
+|Maltodextrine|240g|80g|
+|Sugar|480g|640g|
 |potassium citrate| 7.2g|
 |magnesium citrate|2.8g|
 |salt|18g|
